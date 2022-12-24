@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  (https://www.frontendmentor.io/solutions/)
+- Solution URL:  (https://www.frontendmentor.io/solutions/four-card-feature-section-6hVjrszI2q)
 - Live Site URL: (https://aquamarine-caramel-1fcf15.netlify.app/)
 
 ## My process
