@@ -123,13 +123,13 @@ body {
     margin: 0 auto;
     padding: 1.7rem;
     text-align: center;
-    max-width: 40em;
+    max-width: 45em;
     gap: 0.5rem;
 }
 
 .title {
     font-size: 1.4rem;
-    line-height: 1.7rem;
+    line-height: 2rem;
     font-weight: var(--fw-regular);
     color: var(--clr-neutral-500);
 
@@ -137,6 +137,7 @@ body {
 
 .title span {
     display: block;
+    font-size: 1.47rem;
     font-weight: var(--fw-bolder);
     color: var(--clr-neutral-500);
 }
@@ -200,6 +201,20 @@ body {
 }
 
 @media (min-width:47em) {
+
+    .head-elements p {
+        font-weight: var(--fw-bold);
+        font-size: 1rem;
+    }
+
+    .title {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+    .title span{
+        font-size: 2.1rem;
+    
+    }
 
     .cards {
         display: grid;
